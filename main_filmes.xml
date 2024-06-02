@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  <channel>
+    <name>[B][COLOR white]Lançamentos[/COLOR][/B]</name>
+    <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6BVDyB7pi4lRyEyWri9C0Jr5pTX-hV5XwlVE1MRBlw_Py-lqQ0xVtYuz5nSaxurxQgtkj4vSuf_uL8U6GrsMC_9bAtUTDheJHyB8eH4oL_ZjcHkLrLD0IhVpplccKpOJsHQ5NREhpPtSrReuD6PzM6ow5zfm6tDIVde1M9MrZhLn7zzGnWCz7fcKQN0l/s5000/lan%C3%A7amento.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Prepare-se para uma avalanche de novas histórias e emoções com os filmes que invadiram as telas nos últimos 45 dias! Ação, aventura, comédia, drama... Aqui você encontra o filme perfeito para curtir sozinho, com a família ou com os amigos.</info>
+    <externallink>https://script.googleusercontent.com/macros/echo?user_content_key=ZG6y12XzNvIBL0_ne0b6VqzBeWvROZm1D9OkbHxoi_EMLM3cNKA8TbiEWzkCWE3bLGv4QJH6qBnLuLwHZgK_fo5Gq-hZg2CCm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnG3nDqdHVyHG5e19J0RmPzFLHHncJyZKGMCWYhhBpFdIcdcZBU12uDzzOmQBkUe0uqXzpF4BMjyNENqKUw8Gn6xKoSOdad6tfw&amp;lib=MAcd9WrHQBzCnLCmMb9tatrzBqY2HPWuY</externallink>
+  </channel>
+  
+  <channel>
+    <name>[B][COLOR white]Ordem Alfabética[/COLOR][/B]</name>
+    <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk5HRvN6sxC72ElXpIYChSjL97X3IMoxek504RU5De-KtYRlg1BVeijetCAiYL4imwPTNooB05oJ0rVJEcSUj-Sw-ESV4bCUhJn6TUTETOeQjUfTL0GJs6Dde9fRyI4-xtNzPCL0TXAAwLQolJ5G6Np-YYgaaAQH8FEDZQtLItlAxa1YqEDZv5hBeSloHN/s5000/ordem%20alfab%C3%A9tica.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Que tal embarcar em uma jornada cinematográfica completa e explorar um universo de histórias e emoções através de uma lista completa de filmes em ordem alfabética? Prepare-se para se encantar com clássicos atemporais, grandes sucessos de bilheteria e pérolas escondidas do cinema!</info>
+    <externallink>https://script.googleusercontent.com/macros/echo?user_content_key=GfK4qysouQ_Lhx9vRakpOHvrP0fWK7pcg8ZZhsQ32bD7iXqMapnkBeawJw5cJe-DGB-KtHIA_9RF-HowsTkBcn_i9b0EX9ECm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnLBeNWmUf58NGOqxJ7rkp36kYhfdPJVMW0vACwZ_NDt4-Mj-9ajKabNrzmwgyN6U2rDWkTISvWvgHW_EwX8YzK1RtvtMbaq3bg&amp;lib=MAcd9WrHQBzCnLCmMb9tatrzBqY2HPWuY</externallink>
+  </channel>
+  
+  <channel>
+    <name>[B][COLOR white]Gêneros[/COLOR][/B]</name>
+    <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii-c-CusVcw9cd8bUI1WTA3d-ggyYJl2-hBMcctSlSocqAOLosDP34mjyuhYDZMOHHpdZ41mKZzOHmADzKmYTu_0ZicgqeqPQf9unZed_RWHlY_Vtnei27X_dbOIbAicZr-SQYuebKQyqDPJjZuEKNiz-i4rwhkKh3Ai76lcG81EY-EQbcT-usGAmGUWLp/s5000/g%C3%AAnero.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Cansado de perder tempo procurando o filme perfeito para assistir? Chega de indecisão! Com a nossa lista de filmes separada por gênero, você encontra as melhores histórias em um piscar de olhos. Prepare-se para se aventurar por diversos universos cinematográficos e curtir emoções inesquecíveis!</info>
+    <externallink>https://greenfli.github.io/aaaaaaacerebro/main_genero.xml</externallink>
+  </channel>
+</channels>
