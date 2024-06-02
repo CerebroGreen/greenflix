@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+  <channel>
+    <name>[B][COLOR white]TV[/COLOR][/B]</name>
+    <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh962iLX1ch_R-Nc4X-8qKsU412kab-KxO6sa61WvQp2_pjS8d6-TdosecIvjmzNC8x4h_tiZa0mD-2ImgH1LUvR9qB1ed4PgYBuRVCOnQlEBX_V9pagR1zARLMo6VgMsZPz4lVLifj-r0tgxY0jVK7bwVaYyvr3SytYYwUA8DhcZCirKrrybNDml-Mq3Q-/s5000/IMG_20240529_235643.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Cansado de canais limitados e programação repetitiva? Experimente a liberdade de assistir TV online com qualidade superior e acesso a uma variedade infinita de conteúdo! Prepare-se para se encantar com:
+
+Canais Abertos e Fechados:
+
+Assista seus canais favoritos da TV aberta, como Globo, SBT, Record, Band e Cultura, sem precisar de assinatura.
+Desfrute de canais fechados de diversos gêneros, como notícias, esportes, filmes, séries, documentários e muito mais, com opções para todos os gostos.</info>
+    <externallink>https://greenfli.github.io/aaaaaaacerebro/main_tv.xml</externallink>
+  </channel>
+  
+  <channel>
+    <name>[B][COLOR white]Filmes[/COLOR][/B]</name>
+    <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilvxjiTVzUYvVCpya6q7UmlQYVM2zr0zCUaZO7y9zCtCMCfl6eN1vzdYVTe3MGf2zNnz8HsDuhcw0ZoFFmqa2bkb1x8NXJMPTOLiyTo_uSMCsUJ6O9TkbGu8fgtGwVFc0iN9e-7vzOwIfOrOle2RuqvYGC3gS1p9FjCVHiKKEIRRKAbAWA-g8JS2fAcAul/s5000/IMG_20240527_030057.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Cansado de perder tempo procurando por filmes bons para assistir? Chega de frustrações! Com as opções certas, você encontra filmes de qualidade e lançamentos recentes em um piscar de olhos. Prepare-se para se encantar com:
+
+Catálogo Extenso e Atualizado:
+
+Acesse um universo de filmes de diversos gêneros, desde clássicos atemporais até os últimos lançamentos, com opções para todos os gostos.
+Descubra novos títulos que te conquistarão com suas histórias envolventes, personagens marcantes e produções impecáveis.
+Fique por dentro das novidades com a constante atualização do catálogo, que inclui os lançamentos mais aguardados do cinema.</info>
+    <externallink>https://greenfli.github.io/aaaaaaacerebro/main_filmes.xml</externallink>
+  </channel>
+  
+  <channel>
+    <name>[B][COLOR white]Séries[/COLOR][/B]</name>
+    <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+    <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+    <info>Canais do farruk</info>
+    <externallink></externallink>
+  </channel>
+</channels>
